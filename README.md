@@ -6,7 +6,8 @@ The codes and examples can be found in [Smoker_detection.ipynb](https://github.c
 - The dataset contains 1120 images divided equally into two classes, where 560 images are of Smoking (smokers) and remaining 560 images belong to NotSmoking (non-smokers) class
 ## Training
 
-## Result
+## Evaluation
 - Accuracy model: 0.92
-  
-![Accuracy](Sample Data/Screenshot 2025-08-04 102632.png)
+## Result
+![Accuracy](Sample%20Data/Screenshot%202025-08-04%20102632.png)
+
