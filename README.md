@@ -3,8 +3,14 @@ This project builds a deep learning pipeline to classify images into two categor
 - The codes and examples can be found in [Smoker_detection.ipynb](https://github.com/bachPN73/Smoker-Detection/blob/main/Smoker_detection.ipynb).
 ## The Dataset
 #### Dataset link & Credit: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/phamngocbach73/smoker-1k2)
-<pre> ``` Training/ ├── smoking_001.jpg ├── notsmoking_002.jpg ├── smoking_003.jpg ├── notsmoking_004.jpg └── ... ``` </pre>
-
+```
+Training/
+├── smoking_001.jpg
+├── smoking_002.jpg
+├── notsmoking_001.jpg
+├── notsmoking_002.jpg
+└── ...
+```
 #### The dataset contains 1120 images divided equally into two classes, where 560 images are of Smoking and remaining 560 images belong to NotSmoking class
 
 #### Not smoking
