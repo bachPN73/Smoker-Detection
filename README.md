@@ -2,8 +2,8 @@
 This project builds a deep learning pipeline to classify images into two categories: Smoking and Not Smoking. It uses transfer learning with DenseNet121 and a custom image augmentation pipeline for better generalization.
 - The codes and examples can be found in [Smoker_detection.ipynb](https://github.com/bachPN73/Smoker-Detection/blob/main/Smoker_detection.ipynb).
 ## The Dataset
-Dataset link & Credit: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/phamngocbach73/smoker-1k2)
-####Training/
+#### Dataset link & Credit: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/phamngocbach73/smoker-1k2)
+Training/
 #### ├── smoking_001.jpg
 #### ├── notsmoking_002.jpg
 #### └── ...
